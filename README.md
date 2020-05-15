@@ -1,2 +1,2 @@
 # SpyTrojan_Android
-En desarrollo... | Virus trollano espía para android.
+En desarrollo... | Virus troyano espía para android.
